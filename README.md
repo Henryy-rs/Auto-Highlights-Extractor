@@ -29,12 +29,12 @@ pyqt5 moviepy opencv 활용
 
 ![image](https://user-images.githubusercontent.com/28619620/110121619-f840de80-7e01-11eb-81e6-6cf2bc05d4f9.png)
 
-하이라이트성 평가 그래프가 data에 표시된다.\n
+하이라이트성 평가 그래프가 data에 표시된다.
 export를 누르면 임계값을 넘긴 부분만 잘라붙여 추출된다.
 
 ![image](https://user-images.githubusercontent.com/28619620/110122232-ae0c2d00-7e02-11eb-8e6a-0342a437d9b5.png)
 
-롤드컵 경기 영상\n
+롤드컵 경기 영상
 시간별 골드 데이터를 구해 인풋으로 넣었다.
 
 # 한계과 개선방향
