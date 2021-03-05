@@ -24,3 +24,7 @@ pyqt5 moviepy opencv 활용
 
 - 캐스터가 있는 스포츠 중계 영상(recommend)
 - 영상 종류 불문하고 유튜브에 업로드되어 많은 타임라인 댓글이 있는 영상
+
+# 실행화면
+
+![image](https://user-images.githubusercontent.com/28619620/110121619-f840de80-7e01-11eb-81e6-6cf2bc05d4f9.png)
