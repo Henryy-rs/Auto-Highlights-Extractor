@@ -1,4 +1,4 @@
-# AutoEditor
+# Auto Highlights Extractor
 
 스포츠하이라이트 자동 편집 프로그램
 sport highlight auto editor
